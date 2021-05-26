@@ -13,3 +13,7 @@ You can find more information about virtual environment at the [python](https://
 <pre>
 sudo pip3 install pytube
 </pre>
+## Improvements
+The next updates will be to add some variance for the downloader. Test with download parameters, if they exists, and make selection between extention or type (video ou audio).
+  
+This will take a while since I still have some quiz to take at my college.
